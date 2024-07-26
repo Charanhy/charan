@@ -1,3 +1,3 @@
 # charan
 my first repository
-Auther = Charanhy
+Auther = Charan HY
